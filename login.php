@@ -44,9 +44,9 @@
       		</div>
     	</form>
       <br>
-      <a href="password_forgot.php">I forgot my password</a><br>
-      <a href="signup.php" class="text-center">Register a new membership</a><br>
-      <a href="index.php"><i class="fa fa-home"></i> Home</a>
+      <a href="password_forgot.php">Olvide Mi contraseña</a><br>
+      <a href="signup.php" class="text-center">Registrarse </a><br>
+      <a href="index.php"><i class="fa fa-home"></i> Inicio</a>
   	</div>
 </div>
 	
